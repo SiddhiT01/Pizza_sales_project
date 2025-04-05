@@ -7,4 +7,18 @@ This pizza sales analysis project aims to provide insights into the sales perfor
 The primary dataset used for this analysis is the "pizza_sales.csv" file, containing detailed information 
 
 ## Tools
--
+- Excel - Data Cleaning
+- SQL Server - Data Analysis
+- PowerBI - Creating reports
+
+## Key Insights
+-Total Orders: 20,786
+-Total Pizzas Sold: 48,273
+-Total Revenue: $796,330
+-Average Order Value: $38.31
+-Best Selling Pizza: Supreme Classic
+-Busiest Days: Friday and Saturday
+-Peak Order Month: July
+
+## Dashboard Preview
+![Pizza Sales Dashboard](pizza_dashboard.png)
