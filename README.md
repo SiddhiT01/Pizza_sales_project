@@ -8,8 +8,8 @@ The primary dataset used for this analysis is the "pizza_sales.csv" file, contai
 
 ## Tools
 - Excel - Data Cleaning
-- SQL Server - Data Analysis
-- PowerBI - Creating reports
+- SQL Server - Data Analysis <a href= "https://github.com/SiddhiT01/Pizza_sales_project/blob/main/pizza%20sales%20project.docx"> SQL File</a>
+- PowerBI - Creating reports <a href= "https://github.com/SiddhiT01/Pizza_sales_project/blob/main/pizza%20sales%20project.pbix"> PowerBI File</a>
 
 ## Key Insights
 - Total Orders: 20,786
@@ -24,3 +24,8 @@ The primary dataset used for this analysis is the "pizza_sales.csv" file, contai
 ![Pizza Sales Dashboard](pizza_dashboard.png)
 
 ## Conclusion
+The Pizza Sales Dashboard provides clear insights into business performance across time, categories, and customer preferences. By analyzing this data:
+The company can focus on high-performing items like Supreme Classic pizza.
+Adjust marketing/promotions around Fridays and Saturdays, the peak days.
+Optimize inventory and staffing based on monthly and weekly sales patterns.
+This project demonstrates practical skills in data transformation (SQL), visualization (Power BI), and storytelling through dashboards.
