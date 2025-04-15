@@ -21,7 +21,7 @@ The primary dataset used for this analysis is the "pizza_sales.csv" file, contai
 - Peak Order Month: July
 
 ## Dashboard Preview
-![Pizza Sales Dashboard](pizza_dashboard.png)
+![Pizza Sales Dashboard](Pizza dashboard.png)
 
 ## Conclusion
 The Pizza Sales Dashboard provides clear insights into business performance across time, categories, and customer preferences. By analyzing this data:
